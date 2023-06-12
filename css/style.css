@@ -1,0 +1,58 @@
+/* Created by: Santiago Hewett
+ * Modified by: Santiago Hewett
+ * Created on: June 2023
+ * This CSS file defines the style for index.php
+ * ICS2O-Assign-05-PHP-Remainder
+*/
+
+form {
+  background-color: #ff3df9;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 {
+  background-color: #737cf7;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: #a8e26f;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h5 {
+  background-color: #6fe2c5;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  center
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #83c7f1;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 15px;
+}
+
+#yellow {
+  background-color: #f943d8;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
